@@ -9,9 +9,10 @@ html {
 }
 
 #square h1{
-    font-size: 2.4vw;
-    line-height: 1.9vw;
+    font-size: 2vw;
+    line-height: 1.6vw;
     font-weight: bold;
+    color: black;
 }
 
 
@@ -22,8 +23,8 @@ html {
     display: flex;
     flex-direction: column;
     text-align: center;
-    width: 10vw;
-    height: 9.7vw;
+    width: 9vw;
+    height: 8.5vw;
     background: none;
     z-index: 2;
 }
