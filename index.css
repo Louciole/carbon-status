@@ -7,6 +7,27 @@ html {
   display: flex;
   flex-direction: column;
 }
+
+#square h1{
+    font-size: 2.4vw;
+    line-height: 1.9vw;
+    font-weight: bold;
+}
+
+
+
+#square{
+    border: solid 4px black;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 10vw;
+    height: 9.7vw;
+    background: none;
+    z-index: 2;
+}
+
 body {
   background-color: #f5f6f8;
   color: #3b3b3b;
