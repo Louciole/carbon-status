@@ -8,27 +8,6 @@ html {
   flex-direction: column;
 }
 
-#square h1{
-    font-size: 2vw;
-    line-height: 1.6vw;
-    font-weight: bold;
-    color: black;
-}
-
-
-
-#square{
-    border: solid 4px black;
-    color: black;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    width: 9vw;
-    height: 8.5vw;
-    background: none;
-    z-index: 2;
-}
-
 body {
   background-color: #f5f6f8;
   color: #3b3b3b;
